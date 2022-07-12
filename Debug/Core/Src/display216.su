@@ -1,0 +1,4 @@
+../Core/Src/display216.c:13:6:send_command	24	static
+../Core/Src/display216.c:24:6:send_data	24	static
+../Core/Src/display216.c:35:13:sendLCDData	32	static
+../Core/Src/display216.c:50:6:lcd_init	32	static
